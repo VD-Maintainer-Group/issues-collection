@@ -8,7 +8,7 @@ Following topics are welcomed on issues:
 * **implant** problem/suggestion on any platforms
 * Or, **Any Related Topics** you think worth discussing
 
-P.S. Make sure that there are NO similar issues before start-a-new-topic
+> P.S. Make sure that there are NO similar issues before start-a-new-topic.
 
 ### An Introduction to VDM
 (tbd.)
